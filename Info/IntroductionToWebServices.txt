@@ -1,0 +1,3 @@
+JSON:javascript object notation
+SOAP:Simple object access protocol
+REST:Representional State Transfer
